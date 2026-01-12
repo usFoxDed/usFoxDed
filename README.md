@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+Am I ready?
+- 📫 How to reach me: TO BE DONE.
+- ❤️‍🔥 If you have any advice for a noob, feel free to drop me a message anytime!
+
+
 <!--
 **usFoxDed/usFoxDed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
